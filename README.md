@@ -1,6 +1,13 @@
-# Vue 3 + Vite
+# Vue 3 + Vite 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+ใน Repository นี้จะเป็นการแนะนำการ setup พื้นฐานในการ Create Project Vue โดยในการ setup นี้จะอ้างอิง feature ที่ได้เคยมีการใช้งานใน vue.js version 2 มาก่อนยกตัวอย่างเช่น "port" เริ่มต้นด้วย "8080" เป็นต้น เพื่อให้นักพัฒนาที่เคยพัฒนา web application ด้วย vue.js version 2 ไม่ต้องปรับตัวเยอะ
+
+## Reference
+- Vite
+- Router
+- Pinia
+
+
 
 ## Recommended IDE Setup
 
